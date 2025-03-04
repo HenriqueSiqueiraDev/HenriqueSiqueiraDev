@@ -18,7 +18,7 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 <br/>  
 
 
-## 💻 Tech Stack:  
+## Tech Stack 💻👨‍💻:  
 <table><tr><td valign="top" width="33%">
 
 
@@ -68,7 +68,7 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 <br/>  
 
 
-## Connect with me  
+## Connect with me 📞🤩 
 <div align="center">
 <a href="https://www.linkedin.com/in/henrique-siqueira-6a96391b1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -79,7 +79,7 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 <br/>  
 
 
-## Github Stats  
+## Github Stats⚡
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HenriqueSiqueiraDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
