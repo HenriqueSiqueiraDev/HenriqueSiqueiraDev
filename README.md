@@ -70,7 +70,7 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 
 ## Connect with me  
 <div align="center">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/henrique-siqueira-6a96391b1](https://www.linkedin.com/in/henrique-siqueira-6a96391b1/)" target="_blank">
+<a href="https://www.linkedin.com/in/henrique-siqueira-6a96391b1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
