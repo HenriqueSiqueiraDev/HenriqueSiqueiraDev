@@ -1,24 +1,34 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" align="center" style="width: 100%" />
-</div>  
-  
+<img src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" align="center" style="width: 80%" />
+</div>
 
-# <div align="center">Olá, Sou o Henrique! 😄👋</div>  
-  
+<br/>
 
-### **<div align="center">Sobre 🤖🦾</div>**  
-  
+## <div align="center">Olá, Sou o Henrique! / Hi, I'm Henrique! 😄👋</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Software_Developer-Backend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+<br/>
 
-*<div align="center">Software Developer | C# | Flutter | Java | JavaScript</div>*  
+## <div align="left">About me 🤖</div>
   
+#### 🇺🇸 English:
+I am a Software Developer with experience in Mobile, Websites, and Desktop, with a focus on Back-End. I have been in programming for less than a year but have over 5 years of experience in technology. I am dedicated to my career as a developer, always seeking new knowledge in emerging tools and technologies. I have experience in several programming areas, such as ERP system support, databases, websites, and applications.
 
+#### 🇧🇷 Português:
 Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, com foco em Back-End. Estou na área de programação há menos de um ano, mas com mais de 5 anos de experiência na área de tecnologia. Sou dedicado à minha carreira como desenvolvedor, sempre em busca de novos conhecimentos em ferramentas e tecnologias emergentes. Tenho experiência em diversas áreas da programação, como suporte a sistemas ERP, banco de dados, sites e aplicativos.  
+
   
 
 <br/>  
 
 
-## Tech Stack 💻👨‍💻:  
+## <div align="left">Tech Stack 💻👨‍💻</div>
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -63,25 +73,17 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>
 
 
-## Connect with me 📞🤩 
+## <div align="left">Github Stats⚡</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HenriqueSiqueiraDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<br/>
+
+## <div align="left">Connect with me 📞</div>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/henrique-siqueira-6a96391b1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats⚡
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HenriqueSiqueiraDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
