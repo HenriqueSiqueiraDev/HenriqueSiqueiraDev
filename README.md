@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
 <br/>
 
 ## <div align="left">About me 🤖</div>
@@ -20,18 +21,13 @@
 I am a Software Developer with experience in Mobile, Websites, and Desktop, with a focus on Back-End. I have been in programming for less than a year but have over 5 years of experience in technology. I am dedicated to my career as a developer, always seeking new knowledge in emerging tools and technologies. I have experience in several programming areas, such as ERP system support, databases, websites, and applications.
 
 #### 🇧🇷 Português:
-Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, com foco em Back-End. Estou na área de programação há menos de um ano, mas com mais de 5 anos de experiência na área de tecnologia. Sou dedicado à minha carreira como desenvolvedor, sempre em busca de novos conhecimentos em ferramentas e tecnologias emergentes. Tenho experiência em diversas áreas da programação, como suporte a sistemas ERP, banco de dados, sites e aplicativos.  
-
-  
+Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, com foco em Back-End. Estou na área de programação há menos de um ano, mas com mais de 5 anos de experiência na área de tecnologia. Sou dedicado à minha carreira como desenvolvedor, sempre em busca de novos conhecimentos em ferramentas e tecnologias emergentes. Tenho experiência em diversas áreas da programação, como suporte a sistemas ERP, banco de dados, sites e aplicativos.   
 
 <br/>  
-
 
 ## <div align="left">Tech Stack 💻👨‍💻</div>
 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -44,8 +40,6 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -57,8 +51,6 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -75,9 +67,11 @@ Sou Desenvolvedor de Software com experiência em Mobile, Websites e Desktop, co
 
 </td></tr></table>
 
+<br/>
 
 ## <div align="left">Github Stats⚡</div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HenriqueSiqueiraDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
 <br/>
 
 ## <div align="left">Connect with me 📞</div>
